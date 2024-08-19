@@ -10,7 +10,7 @@ function Banner() {
                         <h1 className='text-4xl font-bold'>
                             Welcome here to learn something <span className='text-pink-500'>new everyday!!!</span>
                         </h1>
-                        <p className='text-xl '>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta accusamus, sint, nulla voluptatibus quasi dolores quisquam explicabo
+                        <p className='text-xl '> ipsum dolor sit amet, consectetur adipisicing elit. Soluta accusamus, sint, nulla voluptatibus quasi dolores quisquam explicabo
                             nisi ut quae aliquam quia inventore deleniti nobis reprehenderit a excepturi harum amet?</p>
                         <label className="input input-bordered flex items-center gap-2">
                             <svg
