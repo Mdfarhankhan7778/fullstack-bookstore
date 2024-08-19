@@ -11,6 +11,9 @@ function Banner() {
                             Welcome here to learn something <span className='text-pink-500'>new everyday!!!</span>
                         </h1>
                         <p className='text-xl '>Discover a haven for book lovers at our bookstore, where stories come alive. We offer a curated collection of books across all genres, catering to both avid readers and casual browsers. Our cozy environment and knowledgeable staff make it easy to find your next great read. From bestsellers to hidden gems, there's something for everyone. Join us for author events, reading clubs, and a true literary experience.</p>
+
+                        <p className='text-xl '> ipsum dolor sit amet, consectetur adipisicing elit. Soluta accusamus, sint, nulla voluptatibus quasi dolores quisquam explicabo
+                            nisi ut quae aliquam quia inventore deleniti nobis reprehenderit a excepturi harum amet?</p>
                         <label className="input input-bordered flex items-center gap-2">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
